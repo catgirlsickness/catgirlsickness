@@ -1,4 +1,4 @@
-## Hi, I’m @floatArray
+- 👋 Hi, I’m @floatArray
 - 👀 I’m interested in: Minecraft
 - 🌱 I’m currently learning: C/C++
 - 💞️ I’m looking to collaborate on: Nothing
