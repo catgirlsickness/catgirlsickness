@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sweetkittygirl
+- 👋 Hi, I’m @catgirlsickness
 - 👀 I’m interested in: Minecraft
 - 🌱 I’m currently learning: C/C++
 - 💞️ I’m looking to collaborate on: Nothing
