@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @catgirlsickness
-- 👀 I’m interested in: Minecraft
-- 🌱 I’m currently learning: C/C++
-- 💞️ I’m looking to collaborate on: Nothing
-- 📫 How to reach me: @kotlinproject
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I write decent code
+## 🏳️‍⚧️ KotlinProject
+Anticheat & Minecraft Modifcation Developer
+
+## Personal Information:
+- Age: 15
+- Location: United States
+
+## Languages
+- Java
+- Kotlin
+- C++ (Learning)
+
+## Projects
+- Private
 <!--
 **floatArray/floatArray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
