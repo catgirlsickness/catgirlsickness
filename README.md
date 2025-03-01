@@ -1,5 +1,5 @@
-## 🏳️‍⚧️ KotlinProject
-Anticheat & Minecraft Modifcation Developer
+## 🏳️‍⚧️ 🏳️‍🌈 KotlinProject
+Anti-cheat, Modification Developer and Reverse Engineer.
 
 ## Personal Information:
 - Age: 15
